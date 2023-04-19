@@ -18,3 +18,5 @@ We call these groups stacks and we have 4 stacks.
 - Stun/Turn stack
 - Frontend stack
 - API stack
+
+Read the full case study at https://otter-framework.dev/docs/case-study/introduction/ to see all the design decisions and engineering challenges we faced while building Otter!
